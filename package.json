@@ -1,8 +1,19 @@
 {
     "name": "franklin-theme",
     "displayName": "Franklin Theme",
-    "description": "Franklin Dark Theme ",
+    "description": "Franklin Dark Theme",
     "version": "0.0.1",
+    "publisher": "Franklintheme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Franklin361/theme_Franklin"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "franklin",
+        "Franklin"
+    ],
     "engines": {
         "vscode": "^1.55.0"
     },
