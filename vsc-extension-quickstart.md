@@ -1,5 +1,5 @@
 # Welcome to your VS Code Extension
-
+a
 ## What's in the folder
 
 * This folder contains all of the files necessary for your color theme extension.
